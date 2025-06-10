@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as 
 
 my_lst=[1,2,3,4,5]
 arr1=np.array(my_lst)

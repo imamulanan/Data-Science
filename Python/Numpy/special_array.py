@@ -1,6 +1,6 @@
 # Zero
 
-import numpy as np
+import numpy as 
 
 arr_zero = np.zeros(4) # 4 ta value sob zero hobe
 print(arr_zero)

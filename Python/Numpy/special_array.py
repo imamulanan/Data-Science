@@ -35,7 +35,7 @@ print("------")
 
 # Linspace
 
-arr_line = np.linspace(1,10,num=5)
+arr_line = np.linspace(1,10,num=5) # num=5 mane 5 ta number dekhabe
 print(arr_line)
 
 arr_line2 = np.linspace(0,20,num=5)

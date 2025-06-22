@@ -21,3 +21,9 @@ print(var2)
 var3 = np.random.ranf(4)
 
 print(var3)
+
+# randint()-->
+
+var4 = np.random.randint(5,20,5) # min,max,tot_values
+
+

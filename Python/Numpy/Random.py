@@ -26,4 +26,4 @@ print(var3)
 
 var4 = np.random.randint(5,20,5) # min,max,tot_values
 
-
+print(var4)

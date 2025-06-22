@@ -15,3 +15,8 @@ print("Data types: ",var2.dtype)
 var3 = np.array([1,2,3,4,5,6,7],dtype=np.int64) # change the data type
 
 print("Data types: ",var3.dtype)
+
+var4 = np.array([1,2,3,4,5,6,7],dtype="f") # change the data type
+
+print("Data types: ",var4.dtype)
+print(var4)

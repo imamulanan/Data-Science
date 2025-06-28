@@ -20,7 +20,7 @@ print(v2mul)
 v2div = np.divide(v1,v2) #v1/v2
 print(v2div)
 
-# 2D array
+
 v3 = np.array([[1,2,3,4],[1,2,3,4]])
 v4 = np.array([[1,2,3,4],[1,2,3,4]])
 

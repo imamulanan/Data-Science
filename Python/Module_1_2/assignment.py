@@ -10,7 +10,7 @@ else:
     print(a,"is odd")   
 
 
-# Problem: 02
+# Problem: 0
 
 #  Write a program that takes two numbers and an operator (+, -, *, /) and performs the calculation.
 
